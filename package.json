@@ -1,0 +1,1 @@
+{"name":"haylur-mobile-beta","version":"0.1.0","private":true,"main":"index.js","scripts":{"start":"expo start","android":"expo run:android","ios":"expo run:ios","check":"expo export --platform android --platform ios"},"dependencies":{"expo":"57.0.25","react":"19.2.3","react-native":"0.86.3"}}
